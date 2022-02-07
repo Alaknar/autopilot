@@ -7,6 +7,8 @@ This was made for reasons unique to our environment but maybe someone else finds
 
 The original (no longer applicable) instruction below.
 
+Link to the original repo [HERE](https://github.com/steve-prentice/autopilot).
+
 > # WaitForUserDeviceRegistration
 > Pauses device ESP for up to 60 minutes for machine to register with AzureAD.
 > Add the WaitForUserDeviceRegistration.intunewin app to Intune and specify the following command line:
