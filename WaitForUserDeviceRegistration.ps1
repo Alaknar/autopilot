@@ -18,9 +18,9 @@
 # which in theory it isn't, but it suited my purposes.
 
 # Create a tag file just so Intune knows this was installed
-$logFile = "C:\IGI\Logs\Build\AutoPilot_Checks.log"
+$logFile = "C:\Temp\Log.log"
 If (-Not (Test-Path $logFile)) {
-    New-Item -Path $AutoPilotChecks -ItemType File -Force
+    New-Item -Path $logFile -ItemType File -Force
 }
 #Set-Content -Path $logFile -Value "Installed"
 
