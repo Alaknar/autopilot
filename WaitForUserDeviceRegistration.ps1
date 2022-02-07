@@ -4,7 +4,7 @@
 # Modified version 1.1.
 #
 # Created: Steve Prentice, 2020
-# Modified: Andrzej Zabrzeski, 2022
+# Modified: Alaknár, 2022
 #
 # Used to pause device ESP during Autopilot Hybrid Join to wait for
 # the device to sucesfully register into AzureAD before continuing.
